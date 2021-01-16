@@ -1,5 +1,8 @@
-.App {
+/* .App {
   text-align: center;
+  background: "url("+ "./images/ilustracion.png"+ ")";
+  background-size: cover;
+  background-color: black;
 }
 
 .App-logo {
@@ -35,4 +38,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
